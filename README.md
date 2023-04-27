@@ -1,1 +1,1 @@
-# codejudge_Assisgnment
+codejudge assignment part-B 
